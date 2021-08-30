@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I am Engin Gülek
-I am studying at Bilecik Seyh Edebali University
+
 
 
 [linkedin] : https://www.linkedin.com/in/engin-gulek-7365b3173/
