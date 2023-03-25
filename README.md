@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I am Engin Gülek
-İstanbul/Malatya
+İstanbul
 
 
 [linkedin] : https://www.linkedin.com/in/engingülek/
