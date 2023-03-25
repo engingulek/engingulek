@@ -1,7 +1,5 @@
 ### Hi there 👋 
 I am Engin Gülek
-İstanbul
-
 
 [linkedin] : https://www.linkedin.com/in/engingülek/
 
