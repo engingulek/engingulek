@@ -8,7 +8,7 @@ Hello! I'm Engin, a passionate iOS developer dedicated to building user-friendly
 
 - 🎓 Graduated in Computer Engineering (Bilecik Şeyh Edebali University, 2022)
 - 📱 Experienced in Swift, SwiftUI, UIKit, Combine, CoreData, Realm, SnapKit
-- 📦 Strong knowledge of Clean Architecture, MVVM, and VIPER
+- 📦 Strong knowledge of Modular Architecture, MVVM, and VIPER
 - ✅ I care about writing maintainable, clean, and testable code
 - ☁️ I also work on backend projects using Spring Boot and PostgreSQL
 
