@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Engin
 
-🎯 iOS Developer | 📍 Istanbul, Turkey | 🛠️ Swift, SwiftUI, UIKit, MVVM, VIPER, Swift Package Manager, Modular Architecture
+🎯 iOS Developer | 📍 Istanbul, Türkiye | 🛠️ Swift, SwiftUI, UIKit, MVVM, VIPER, Swift Package Manager, Modular Architecture
 
 Hello! I'm Engin, a passionate iOS developer dedicated to building user-friendly, high-performance, and scalable mobile applications using Swift and modern iOS technologies.
 
