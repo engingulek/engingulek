@@ -25,16 +25,11 @@ Hello! I'm Engin, a passionate iOS developer dedicated to building user-friendly
 
 | Project Name | Description | Technologies |
 |--------------|-------------|--------------|
-| 🚕 **TaxiGo** | A real-time taxi tracking application with a modular architecture | Swift, VIPER, WebSocket, MapKit |
-| 🛒 **VolatusiOS** | A flight ticket purchasing application | SwiftUI, MVVM |
+| 🎬 **ICTMDBApp** |A lightweight and reusable framework for UICollectionView written in Swift. | Type Safety, Reusable,Clean Architecture,Extensible |
+| 🚕 **TrendyolGoByUberEatsBase** | This project is a comprehensive infrastructure study that combines Server-Driven UI (SDUI) principles, one of the most advanced techniques in modern iOS development | Swift, VIPER, Modular Architecture, SDUI |
+| 🧩 **GenericCollectionViewKit** |It is a modular application built using a list of TMDB TV shows. | Modular structure,Swinject, Protocol Oriented Programming Architecture,VIPER |
 | 🎨 **HPCharacterListModulerApp** | A modular SwiftUI app that displays Harry Potter characters | Swift, SwiftUI, Modular Architecture |
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engingulek&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engingulek&layout=compact&theme=radical" width="45%" />
-</div>
 
 ## 📫 Contact
 
