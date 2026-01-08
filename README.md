@@ -22,12 +22,12 @@ Hello! I'm Engin, a passionate iOS developer dedicated to building user-friendly
 </div>
 
 ## 📱 Featured Projects
-
+ 
 | Project Name | Description | Technologies |
 |--------------|-------------|--------------|
-| 🎬 **ICTMDBApp** |A lightweight and reusable framework for UICollectionView written in Swift. | Type Safety, Reusable,Clean Architecture,Extensible |
+| 🎬 **ICTMDBApp**  |It is a modular application built using a list of TMDB TV shows. | Modular structure,Swinject, Protocol Oriented Programming Architecture,VIPER |
 | 🚕 **TrendyolGoByUberEatsBase** | This project is a comprehensive infrastructure study that combines Server-Driven UI (SDUI) principles, one of the most advanced techniques in modern iOS development | Swift, VIPER, Modular Architecture, SDUI |
-| 🧩 **GenericCollectionViewKit** |It is a modular application built using a list of TMDB TV shows. | Modular structure,Swinject, Protocol Oriented Programming Architecture,VIPER |
+| 🧩 **GenericCollectionViewKit**  |A lightweight and reusable framework for UICollectionView written in Swift. | Type Safety, Reusable,Clean Architecture,Extensible |
 | 🎨 **HPCharacterListModulerApp** | A modular SwiftUI app that displays Harry Potter characters | Swift, SwiftUI, Modular Architecture |
 
 
